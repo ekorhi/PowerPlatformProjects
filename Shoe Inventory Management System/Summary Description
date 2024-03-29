@@ -1,0 +1,12 @@
+Business Scenario
+SoleStyle is a boutique shoe company specializing in high-end footwear. The company aims to have an efficient way of tracking its shoe products and managing stock levels. And providing seamless shopping experience for customers. They want to streamline their inventory management process, so you will build an app using Power Platform. 
+were BI Dashboard	Power BI
+ Shoe Inventory Management System - Microsoft Power Up Program Project 
+Designed and implemented a Power Platform-based inventory management system to efficiently track and manage shoe products, manage stock levels, and provide seamless shopping experience for customers.
+•	Integrated with Dataverse for centralized data storage and collaboration.
+•	Improved shoe tracking efficiency by 70%, resulting in enhanced visibility and cost savings.
+•	Receive a notification when new stock is added.
+•	Developed a Power Virtual Agent for customer inquiries.
+•	Created a Power BI dashboard for data visualization and analysis, including generating regular reports and analytics related to inventory levels, turnover rates, popular products, and slow-moving items.
+•	Submit an application developed using Power Platform technology and meet the requirements as stated in the challenge, as assessed by Power Platform subject matter experts.
+
